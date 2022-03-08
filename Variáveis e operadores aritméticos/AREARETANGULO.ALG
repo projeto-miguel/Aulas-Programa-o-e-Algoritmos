@@ -1,5 +1,5 @@
-Algoritmo "semnome"
-// Descrição   : Solicita base e altura e calcula a area do retangulo
+Algoritmo "AreaRetangulo"
+// DescriÃ§Ã£o   : Solicita base e altura e calcula a area do retangulo
 // Autor(a)    : Miguel Carneiro de Mendonca
 // Data atual  : 08/03/2022
 Var
@@ -20,6 +20,6 @@ area <- base*alt
 limpatela
 
 //saida
-escreval("A área é igual a: ",area)
+escreval("A Ã¡rea Ã© igual a: ",area)
 
 Fimalgoritmo
