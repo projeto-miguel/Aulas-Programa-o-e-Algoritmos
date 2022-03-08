@@ -1,6 +1,6 @@
 Algoritmo "MediaAritmetica"
-// Descrição   : Calcula a média aritmética de 3 notas
-// Autor(a)    : Miguel Carneiro de Mendonça
+// DescriÃ§Ã£o   : Calcula a mÃ©dia aritmÃ©tica de 3 notas
+// Autor(a)    : Miguel Carneiro de MendonÃ§a
 // Data atual  : 08/03/2022
 Var
 n1,n2,n3,media:real
@@ -15,9 +15,13 @@ leia(n2)
 escreval("Digite a terceira nota:")
 leia(n3)
 
+//processamento
+
 media <- (n1+n2+n3)/3
 
-escreval("A média final é igual a: ",media)
+//saida
+
+escreval("A mÃ©dia final Ã© igual a: ",media)
 
 
 Fimalgoritmo
