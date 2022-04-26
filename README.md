@@ -1,6 +1,6 @@
 # Aulas-Programação-e-Algoritmos
-Projeto movimento scratch: https://scratch.mit.edu/projects/671433887 <br>
-projeto jogo do chikinito https://scratch.mit.edu/projects/674900105 <br>
+Projeto movimento scratch: https://scratch.mit.edu/projects/671433887 <br><br>
+projeto jogo do chikinito https://scratch.mit.edu/projects/674900105 <br><br>
 Projeto diálogo: https://scratch.mit.edu/projects/663783438
 
-Fluxograma: https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=calculo_peca#R3VfBcpswEP0aDu1MZkAYmRwTx0k6dSaZyaHTo4wWUCtYKovYztdXGBmMsZ1kUidp8MHS0y6S3tuHwPFH2eJKsSK9QQ7SIS5fOP6FQ4jnB8T8VciyRoangxpIlOA2qAXuxSNY0LVoKTjMOoEaUWpRdMEI8xwi3cGYUjjvhsUou7MWLIEecB8x2Ud%2FCK7TGg3JsMWvQSTpemaPntYjGVsH253MUsZxvgH5Y8cfKURdt7LFCGRF3pqXOu9yz2izMAW5fk7C5GY8XT7efb96HJPb8c%2Fy5vbk%2BsSzt3lgsrQ7tqvVyzUFwA0jtotKp5hgzuS4Rc8VljmHah7X9NqYCWJhQM%2BAv0DrpZWXlRoNlOpM2tF6zmqivZuz0AxLFcGBHVlhNFMJ6ANxYSOBqV3ADLRamjwFkmnx0F0Hs0WUNHEtz6ZhqX4B7cMe699yZ%2BQ7ZxeRwL4AUppyr4iep0LDfcFWDMyN47o0xkLKEUpUqzyfBxDygcFnWuFv2BgJydSntCH%2BAZSGxWHq%2B1TZBEJtgVuHDwLbn7d%2B8dYmSDe8ErpHYtfzP1tRh88sao%2B8Z1WHPdpN05QcMbdz%2F2gOPRXMM7GomoYTJiVITBTLDHUFKGHWBGp77K4deNoMC1gfKDvMEccxiaJd5uB0SoMjmYP6zzQHPZo5gs9mjlcXvU29Q2GmbqSjble6kGxJUrvRZm2p0izjFUKRnlAaNavyHEJZVpW7NFSdn9RBqL7u9NgLzwwGYbzTFjQKYRr%2FG1sEgw9ni%2F7D63%2B3BX0TW3iu98a%2BoPt8sedw4RiV2Yq%2Bp46MaS3fZLrHHHFQ%2FSocc72B19dO06yu45imeSC934vWaU%2BKS5FVDyj%2F7EvfPh%2F6NXab3bauj0Cv6bYffrUx2s9nf%2FwX
+
