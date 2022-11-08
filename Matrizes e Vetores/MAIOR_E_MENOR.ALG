@@ -1,6 +1,6 @@
-Algoritmo "questao_07"
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Vinicius Silva Augusto
+Algoritmo "semnome"
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : Miguel
 // Data atual  : 01/11/2022
 Var
 matrix : vetor[0..5,0..2] de inteiro
@@ -37,9 +37,9 @@ para linha de 0 ate 5 faca
 fimpara
 
 escreval()
-escreval("O menor é",min)
+escreval("O menor Ã©",min)
 escreval()
-escreval("O maior é",max)
+escreval("O maior Ã©",max)
 
 
 Fimalgoritmo
